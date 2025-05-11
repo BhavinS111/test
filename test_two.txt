@@ -1,2 +1,0 @@
-This is an example of another test file , lets call this test 2
-I have now added to the test two file
